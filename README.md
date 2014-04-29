@@ -24,4 +24,4 @@ DB::getInstance->Delete('tablename')->Where('name','=','someValue')->Run();
 ```
 This wrapper is made just for educational purposes so it my contain some minor errors, so i do not recommend you to use it in production environment;
 
-Feel free to modify, extend or
+Feel free to modify, extend or do whatever you like :)
